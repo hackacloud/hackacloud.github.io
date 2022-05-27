@@ -1,5 +1,3 @@
-remote_theme: just-the-docs/just-the-docs
+theme: jekyll-theme-tactile
 title: HackAcloud
 description: Security for Cloud, CloudNative and DevSecOps from TowardsNetwork
-
-theme: jekyll-theme-tactile
